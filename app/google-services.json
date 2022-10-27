@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874988692837",
+    "project_id": "tarea1-9cbce",
+    "storage_bucket": "tarea1-9cbce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874988692837:android:c3006f2b4f3dc12c1d6d8c",
+        "android_client_info": {
+          "package_name": "com.pluartz.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874988692837-33ievmvluu2d4slr5r92c2kdpgsj0pe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjq-zIk1vQhTMk3rw6dbs0FGTCymfxf7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874988692837-33ievmvluu2d4slr5r92c2kdpgsj0pe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
